@@ -13,6 +13,8 @@ The data we'll be working with today is the [Bechdel Test data](https://en.wikip
 
 - __Interactivity__ - Is your shiny user friendly? Can it generate new information based on user input?
 
-- __Publishing Shiny App__ - Finally, you can publish the app and share the link with other people
+- __HTML & CSS__ - You can add HTML & CSS to your shiny app and show your creativity.
 
-### Share with your neighbors after you finish and tell them what you found in this dataset. 
+- __Publishing Shiny App__ - Finally, you can publish the app and share the link with other people.
+
+### Share with your neighbors after you finish and tell them about your design.
