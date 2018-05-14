@@ -2,7 +2,7 @@
 library(shiny)
 library(plotly)
 library(shinythemes)
-shinyUI(navbarPage(
+shinyUI(navbarPage(theme = shinytheme("sandstone"),
   "Electoral College",
   # Create a tab panel for your map
   tabPanel(
